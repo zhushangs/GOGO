@@ -29,7 +29,7 @@ public class TwoSum {
 }
 
 /*
-     Question: Given an array, find the poistion of two number that their sum is equal to the target number
+     Question: Given an array, find the position of two number that their sum is equal to the target number
      Input: numbers=[2,7,11,15], target = 9
      Output: [1,2];
 */
