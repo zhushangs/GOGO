@@ -32,3 +32,14 @@ public class ReverseVowels {
         return new String(chars);
     }
 }
+
+/*
+    reverse the character if they are both vowels
+
+    Input: s = "hello"
+    Output: "holle
+
+    Input: s = "leetcode"
+    Output: "leotcede"
+
+ */
